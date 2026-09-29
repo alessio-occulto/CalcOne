@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcOne</string>
+    <string name="hintInsNum2">Inserisci numero 2</string>
+    <string name="hintInsNum1">Inserisci numero 1</string>
+    <string name="txtRisultato">Risultato</string>
+    <string name="txtPlus">+</string>
+    <string name="txtMin">-</string>
+    <string name="txtDiv">/</string>
+    <string name="txtMol">*</string>
+    <string name="txtCalculator">Calcolatrice</string>
+</resources>

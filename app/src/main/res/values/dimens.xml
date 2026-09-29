@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimenTxtRisultato">40sp</dimen>
+    <dimen name="dimenBtnOperation">60sp</dimen>
+    <dimen name="dimenTxtCalculator">40sp</dimen>
+</resources>
